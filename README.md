@@ -1,1 +1,7 @@
 # marvel-characters
+
+* // GET /characters ==> Get all characters
+* // POST /characters ==> Create a new character
+* // GET /characters/:id ==> Get a character by ID
+* // PUT /characters/:id ==> Update a character by ID
+* // DELETE /characters/:id ==> Delete a character by ID
